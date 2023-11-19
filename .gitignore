@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 *.doc
+=======
+.doc
+build/side.txt
+README.md
+>>>>>>> 3955a883cf339770ee9de9881309ff8fdf253ba8
